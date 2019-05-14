@@ -1,0 +1,5 @@
+﻿  lista_liniowa_dwukierunkowa.cpp
+C:\Users\Sławek Olszewski\Documents\GitHub\DoublyLinkedList\DoublyLinkedList\lista_liniowa_dwukierunkowa.cpp(149): warning C4101: "temporary": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Sławek Olszewski\Documents\GitHub\DoublyLinkedList\DoublyLinkedList\lista_liniowa_dwukierunkowa.cpp(162): warning C4101: "temporary": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Sławek Olszewski\Documents\GitHub\DoublyLinkedList\DoublyLinkedList\lista_liniowa_dwukierunkowa.cpp(118): warning C4715: "delAtribute”: niewszystkie ścieżki kodu zwracają wartość
+  DoublyLinkedList.vcxproj -> C:\Users\Sławek Olszewski\Documents\GitHub\DoublyLinkedList\Debug\DoublyLinkedList.exe
